@@ -2,7 +2,7 @@
 
 A simple React Native app to **add**, **delete**, and **view** user data. Built using React Native and connected to a REST API backend.
 
-![App Screenshot](https://github.com/hijibiji1/Basic-User-Management/src/assets/screenshots/user-management-demo.png)
+![App Screenshot](https://github.com/hijibiji1/Basic-User-Management/blob/main/src/assets/screenshots/user-management-demo.png)
 
 ---
 
